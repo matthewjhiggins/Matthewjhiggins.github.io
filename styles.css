@@ -1,0 +1,21 @@
+h1 { color: green; }
+body { 
+background: cyan; 
+color: darkblue;
+font-size: 18pt; 
+font-family: 'Open Sans Condensed', sans-serif; }
+
+
+
+nav li {border: 2px solid black; 
+		display: inline-block;
+		padding: 5px;
+		margin: 2.5px;
+		background: lightgreen;
+		}
+		
+		
+		
+a { color: darkred;
+	text-decoration: none}
+a:hover {color: red; }
